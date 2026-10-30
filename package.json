@@ -1,0 +1,6 @@
+{
+  "name": "statement-since-payoff",
+  "private": true,
+  "scripts": { "test": "node --check statement-since-payoff.user.js && node --test tests/*.test.cjs" },
+  "devDependencies": { "jsdom": "30.0.1" }
+}
